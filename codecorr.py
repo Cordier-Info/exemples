@@ -36,8 +36,8 @@ print("P =")
 print(P)
 print()
 
-# on en déduit la matrice de parité H
-Pt = P.transpose()
+# on en déduit la matrice de contrôle H
+Pt = P.transpose() # transpose fait passer en float on dirait (d'où les astype)
 H = np.concatenate((Pt, np.identity(6)), axis=1).astype(np.uint8)
 print("H =")
 print(H)
