@@ -7,6 +7,5 @@ for byte in a_byte_array:
     binary_representation = bin(byte)
     byte_list.append(binary_representation)
 
-
 for b in byte_list :
 	print(b[2:].zfill(8),end='')
