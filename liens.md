@@ -10,3 +10,5 @@
 - http://cordier-phychi.toile-libre.org/Info/correc4
 - http://cordier-phychi.toile-libre.org/Info/correc5
 
+### Codes à cracker :
+https://trinket.io/python/7128d2a749?outputOnly=true&runOption=run
