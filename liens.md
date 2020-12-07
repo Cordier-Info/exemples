@@ -5,7 +5,7 @@
 - http://cordier-phychi.toile-libre.org/Info/cours4_pres
 - http://cordier-phychi.toile-libre.org/Info/cours5_pres
 - http://cordier-phychi.toile-libre.org/Info/nombres_pres
-- - http://cordier-phychi.toile-libre.org/Info/struct_pres
+- http://cordier-phychi.toile-libre.org/Info/struct_pres
 
 ### Exemples de corrections des TP :
 - http://cordier-phychi.toile-libre.org/Info/correc3
