@@ -11,3 +11,6 @@
 - http://cordier-phychi.toile-libre.org/Info/correc3
 - http://cordier-phychi.toile-libre.org/Info/correc4
 - http://cordier-phychi.toile-libre.org/Info/correc5
+
+### Vidéos à regarder :
+- https://youtu.be/AgtOCNCejQ8
