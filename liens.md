@@ -6,6 +6,7 @@
 - http://cordier-phychi.toile-libre.org/Info/cours5_pres
 - http://cordier-phychi.toile-libre.org/Info/nombres_pres
 - http://cordier-phychi.toile-libre.org/Info/struct_pres
+- http://cordier-phychi.toile-libre.org/Info/algo_pres
 
 ### Exemples de correction des TP :
 - http://cordier-phychi.toile-libre.org/Info/correc3
