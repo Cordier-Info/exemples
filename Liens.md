@@ -14,6 +14,7 @@
 - http://cordier-phychi.toile-libre.org/Info/correc5
 - http://cordier-phychi.toile-libre.org/Info/TP7_corr.html
 - http://cordier-phychi.toile-libre.org/Info/TP8_corr.html
+- http://cordier-phychi.toile-libre.org/Info/TP9_corr.html
 
 ### Vidéos à regarder :
 - https://youtu.be/AgtOCNCejQ8
