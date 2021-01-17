@@ -19,3 +19,6 @@
 - https://youtu.be/AgtOCNCejQ8
 - https://youtu.be/I4CU8m5IOXc
 - https://youtu.be/-73jokmqmd0
+
+### Exemples d'utilisation de VPython pour la physique :
+- https://trinket.io/glowscript/ed106ffc04
