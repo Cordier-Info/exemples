@@ -18,7 +18,7 @@
 
 ### Vidéos à regarder :
 - https://youtu.be/AgtOCNCejQ8
-- https://youtu.be/I4CU8m5IOXc
+- https://youtu.be/ABFPG7jlf1Y
 - https://youtu.be/-73jokmqmd0
 
 ### Exemples d'utilisation de VPython pour la physique :
