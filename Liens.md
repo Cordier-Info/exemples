@@ -1,3 +1,7 @@
+### Nouveau site pour la partie Python du cours et des TP (des corrections et ajouts ont été faits) :
+https://cordier-info.github.io
+
+
 ### Présentations succinctes du cours :
 - http://cordier-phychi.toile-libre.org/Info/cours1_pres
 - http://cordier-phychi.toile-libre.org/Info/cours2_pres
