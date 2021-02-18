@@ -22,7 +22,7 @@ https://cordier-info.github.io
 
 ### Vidéos à regarder :
 - https://youtu.be/AgtOCNCejQ8
-- https://youtu.be/ABFPG7jlf1Y
+- https://youtu.be/zDwdqzfsvO0
 - https://youtu.be/-73jokmqmd0
 
 ### Exemples d'utilisation de VPython pour la physique :
