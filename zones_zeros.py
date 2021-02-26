@@ -4,7 +4,7 @@ from scipy import ndimage
 M = np.array([0,0,0,1,1,1,1,0,0,1,1,0,1,1,0,1,1,0,0,0])
 M.shape = (4,5)
 
-print(M,'\n')
+print("M =\n",M,'\n')
 def zones_zeros(M) :
     """
     argument M : tableau 2D de 1 et 0
