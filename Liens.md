@@ -27,6 +27,3 @@ https://cordier-info.github.io
 
 ### Exemples d'utilisation de VPython pour la physique :
 - https://trinket.io/glowscript/ed106ffc04
-
-### AP avion :
-- http://cordier-phychi.toile-libre.org/Info/AP_avion/
