@@ -31,3 +31,4 @@ https://cordier-info.github.io
 ### AP :
 - Pic bas : http://cordier-phychi.toile-libre.org/Info/picbas/#11
 - Avion : http://cordier-phychi.toile-libre.org/Info/AP_avion/
+- Course Galilée : http://cordier-phychi.toile-libre.org/Info/tremplin.html
