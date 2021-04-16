@@ -31,7 +31,8 @@ Temporary Items
 
 # et en plus
 .ipynb_checkpoints
+tentatives.ipynb
 
 # End of https://www.toptal.com/developers/gitignore/api/osx
-*.ipynb
+
 __pycache__/dessins_pendu.cpython-38.pyc
